@@ -76,6 +76,7 @@ p {
 
 .about-paragraphs p {
   margin: 10px;
+  text-align: center;
 }
 
 .email-link {
@@ -113,4 +114,9 @@ p {
   .btn{
     display:block;
   }
+.img-fluid{
+
+display:none;
+} 
 }
+
