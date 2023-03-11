@@ -99,6 +99,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.primary-link:hover{
+  color:red;
+}
 .secondary-link {
   border-radius: 4px;
   padding: 20px 15px;
